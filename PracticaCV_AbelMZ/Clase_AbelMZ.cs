@@ -8,5 +8,16 @@ namespace PracticaCV_AbelMZ
 {
     class Clase_AbelMZ
     {
+        // CONSTANTES
+
+        // MIEMBROS PRIVADOS
+
+        // CONSTRUCTORES
+
+        // PROPIEDADES
+
+        // MÉTODOS PÚBLICOS
+
+        // MÉTODOS PRIVADOS
     }
 }
